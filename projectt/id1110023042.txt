@@ -1,0 +1,58 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication13;
+
+/**
+ *
+ * @author Dipu
+ */
+public class JavaApplication13 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("My first java program");
+        // TODO code application logic here
+    }
+}
+/*
+ * my 2nd java program...
+ * and open the template in the editor.
+ */
+package javaapplication13;
+
+/**
+ *
+ * @author Dipu
+ */
+public class JavaApplication13 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        int num=100;
+        System.out.println("The value of num is " +num);
+        num=num*2;
+        System.out.println("The value of num*2 is : " +num);
+        // TODO code application logic here
+    }
+}
+/*
+ * my 3nd java program...
+ * and open the template in the editor.
+ */
+package javaapplication13;
+
+/**
+ *
+ * @author Dipu
+ */
+public class JavaApplication13 {
+
+    /**
+     * @param args the command line arguments
+     */
